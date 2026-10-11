@@ -1,0 +1,11 @@
+{
+  "name": "creative-specialist",
+  "owner": { "name": "ThiagoNascBarros" },
+  "plugins": [
+    {
+      "name": "creative-specialist",
+      "source": "./plugins/creative-specialist",
+      "description": "Kit de design para Claude Code: front-end, design system, identidade visual, UI/UX e acessibilidade."
+    }
+  ]
+}
